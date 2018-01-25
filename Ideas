@@ -1,0 +1,15 @@
+  <div id="nav"> <!--menu izquierda-->
+     <div class="titulonav">
+     Metodologias
+     </div>
+     <div class="cuerporec">
+     <ul>
+        <li><a href="https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents">OWASP</a></li>
+        <li><a href="http://www.pentest-standard.org/index.php/Main_Page">PTES</a></li>
+        <li><a href="https://web.archive.org/web/20160503094556/https://www.owisam.org/es/P%C3%A1gina_principal">OWISAM</a></li>
+        <li><a href="http://www.isecom.org/research/">OSSTMM</a></li>
+        <li><a href="index\web1.html">prueba</a></li>
+        <li><a href="index\web2.html">prueba2</a></li>
+     </ul>
+     </div>
+  </div><!--menu izquierda-->
